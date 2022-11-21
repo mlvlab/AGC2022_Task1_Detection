@@ -3,7 +3,7 @@
 - Superglue: https://drive.google.com/file/d/1ACYKMSg8GCb5qEgvfO5m0LTCJvhnOMWm/view?usp=sharing
 - Yolov7: https://drive.google.com/file/d/1-eCIYzgr9eXp2ANBp3R4ZQor7Vl8YQwO/view?usp=share_link
 
-### Make Checkpoint foler
+### Make Checkpoint Folder
 ``` 
     cd superglue
     mkdir weights
