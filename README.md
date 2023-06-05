@@ -3,6 +3,13 @@
 - Superglue: https://drive.google.com/file/d/1ACYKMSg8GCb5qEgvfO5m0LTCJvhnOMWm/view?usp=sharing
 - Yolov7: https://drive.google.com/file/d/1-eCIYzgr9eXp2ANBp3R4ZQor7Vl8YQwO/view?usp=share_link
 
+## Superglue Dependencies  
+- Python >= 3.5   
+- PyTorch >= 1.1   
+- OpenCV >= 3.4 (4.1.2.30 recommended for best GUI keyboard interaction, see this note)   
+- Matplotlib >= 3.1   
+- NumPy >= 1.18   
+
 ### Make Checkpoint Folder
 ``` 
     cd superglue
